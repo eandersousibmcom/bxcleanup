@@ -1,0 +1,7 @@
+##########################################################################################################
+#Insert Apps that should be excluded from the watchdog processes
+##########################################################################################################
+cloudsalesdemos
+cloudtweeps
+EA-sensortag
+talktoerik
